@@ -2,7 +2,7 @@
 
 html,body{
     font-family: 'Montserrat', sans-serif;
-    
+    background:#EFF6FF;
     color:#4E5150;
 }
 
@@ -19,7 +19,7 @@ h2{
 }
 p{
     /* border:1px solid #4E5150; */
-    box-shadow: 3px 3px 4px 4px #ccc;
+    box-shadow: 2.5px 2.5px 4px 4px #D1D5DB;
     border-radius:1rem;
     padding:0.75rem;
     margin-bottom:1.75rem;
@@ -33,14 +33,15 @@ p{
     padding:0.75rem;
     font-family: 'Montserrat', sans-serif;
     background:white;
-    margin-right:0.25rem;
     border:1px solid #4E5150;
+    margin-right:0.2rem;;
+
     color:#4E5150;
 
 }
 
 .btn-active{
-    background:#4E5150;
+    background:#1D4ED8;
     color:white;
 }
 
